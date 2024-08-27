@@ -1,3 +1,14 @@
+
+The main purpose of this website is to provide a platform for the users to get a single 
+website where the users can avail various visual effects services.
+TOOLS AND LIBRARIES :
+1) Python with OOPs concepts as the main programming language.
+2) MySQL database for local data storage.
+3) Matplotlib and NumPy for data processing and visualization.
+4) Tkinter for graphical user interface (GUI).
+5) PyCharm IDE for development.
+6) GitHub for code sharing and collaboration
+
 Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
 
