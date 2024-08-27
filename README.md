@@ -15,7 +15,7 @@ Find instructions for cloning/downloading this repo here, then unzip the reposit
 
 Or if you have git command line installed, clone using this command:
 
-git clone https://github.com/Jain-Joseph1996/PythonProject
+git clone https://github.com/devuviswanath/VisualServicesWebsite
 
 2: Cd to the folder
 Open terminal/cmd/powershell and change directory/folder to the cloned folder. Here are the instructions
